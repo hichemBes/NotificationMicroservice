@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cdc7491b-2e1d-452b-a8db-8ad32247aa9f": {
+      "ProjectGuid": "cdc7491b-2e1d-452b-a8db-8ad32247aa9f",
+      "DisplayName": "Domain",
+      "ColorIndex": 0
+    },
+    "1113f056-9bd7-4f8f-bb92-5a2a912ca3be": {
+      "ProjectGuid": "1113f056-9bd7-4f8f-bb92-5a2a912ca3be",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    },
+    "f58ca5e3-bfdc-44b2-b138-8d6b7a2849f7": {
+      "ProjectGuid": "f58ca5e3-bfdc-44b2-b138-8d6b7a2849f7",
+      "DisplayName": "Infra",
+      "ColorIndex": 2
+    },
+    "541e322f-b4c7-4003-b1db-0526de8ea001": {
+      "ProjectGuid": "541e322f-b4c7-4003-b1db-0526de8ea001",
+      "DisplayName": "Domaine",
+      "ColorIndex": 3
+    },
+    "1b030bb5-9c14-4eb3-a750-7149f5d4702b": {
+      "ProjectGuid": "1b030bb5-9c14-4eb3-a750-7149f5d4702b",
+      "DisplayName": "Notification",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "0e3b1d5c-661c-432d-aa64-193cf6020339": {
+      "ProjectGuid": "0e3b1d5c-661c-432d-aa64-193cf6020339",
+      "DisplayName": "Domain",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
